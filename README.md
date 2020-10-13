@@ -6,3 +6,6 @@ do something 3
 
 do something 4
 do something 5
+
+fix 1
+fix 2
